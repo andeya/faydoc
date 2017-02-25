@@ -26,3 +26,4 @@ User manual of faygo frame.
 * 4.[操作与中间件](zh/04.00.md)
  - 4.1. [函数类型Handler](zh/04.01.md)
  - 4.2. [结构体类型Handler](zh/04.02.md)
+ - 4.3. [Swagger2.0在线API文档](zh/04.03.md)
