@@ -2,6 +2,8 @@
 
 User manual of faygo frame.
 
+[Faygo](https://github.com/henrylee2cn/faygo) uses the new architecture to make itself the most suitable Go Web framework for developping API. Just define a struct Handler, Faygo will automatically bind, verify the request parameters and generate the online API documentation.
+
 [简体中文](README_ZH.md)
 
 ## 目录
@@ -11,10 +13,10 @@ User manual of faygo frame.
  - 1.2. [项目架构](zh/01.02.md)
 
 * 2.[创建服务实例](zh/02.00.md)
- - 2.1. [单实例&单监听](zh/02.01.md)
- - 2.2. [单实例&多监听](zh/02.02.md)
- - 2.3. [多实例&单监听](zh/02.03.md)
- - 2.4. [多实例&多监听](zh/02.04.md)
+ - 2.1. [单服务&单监听](zh/02.01.md)
+ - 2.2. [单服务&多监听](zh/02.02.md)
+ - 2.3. [多服务&单监听](zh/02.03.md)
+ - 2.4. [多服务&多监听](zh/02.04.md)
 
 * 3.[项目部署运行](zh/03.00.md)
  - 3.1. [启动所有服务实例](zh/03.01.md)
