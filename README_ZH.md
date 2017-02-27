@@ -4,6 +4,8 @@
 
 官方QQ群：Go-Web 编程 42730308    [![Go-Web 编程群](http://pub.idqqimg.com/wpa/images/group.png)](http://jq.qq.com/?_wv=1027&k=fzi4p1)
 
+文档状态：完善中...
+
 ## 目录
 
 * 1.[欢迎使用 faygo](zh/01.00.md)
