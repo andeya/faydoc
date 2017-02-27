@@ -30,7 +30,6 @@ Manual status: gradually completing...
  - 4.2. [结构体类型Handler](zh/04.02.md)
  - 4.3. [Swagger2.0在线API文档](zh/04.03.md)
 
-
 * 5.[路由器](zh/05.00.md)
  - 5.1. [两种注册形式](zh/05.01.md)
  - 5.2. [静态路由](zh/05.02.md)
