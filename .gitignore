@@ -1,0 +1,14 @@
+*.exe
+*.exe~
+*.rar
+*.psd
+*.bmd
+*.cfg
+*.pptx
+*.log
+*.sublime-project
+*.sublime-workspace
+fay/*
+samples/*/log/*
+samples/*/static/*
+samples/*/upload/*
