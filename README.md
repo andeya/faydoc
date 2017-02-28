@@ -2,7 +2,7 @@
 
 User manual of faygo frame.
 
-[Faygo](https://github.com/henrylee2cn/faygo) uses the new architecture to make itself the most suitable Go Web framework for developping API. Just define a struct Handler, Faygo will automatically bind, verify the request parameters and generate the online API documentation.
+[Faygo](https://github.com/henrylee2cn/faygo) is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct Handler, Faygo will automatically bind/verify the request parameters and generate the online API doc.
 
 Manual status: gradually completing...
 
